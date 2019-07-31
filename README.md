@@ -1,1 +1,1 @@
-#DOM JS ejercicios realizados en clase
+Ejercicios realizados durante la cursada en ADA
